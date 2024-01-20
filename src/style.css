@@ -15,6 +15,7 @@ body {
     border-radius: 16px;
     padding: 30px;
   }
+  
   header {
     border-bottom: 1px solid #f9f7fe;
     padding: 0 0 30px 0;
@@ -80,7 +81,7 @@ body {
     font-weight: bold;
   }
   
-  .weather-app-unit {
+  .weatehr-app-unit {
     margin-top: 16px;
     font-size: 28px;
   }
@@ -90,5 +91,5 @@ body {
     padding: 30px 0 0 0;
     text-align: center;
     font-size: 14px;
-    color: rgba(0, 0, 0, 0.6);}
-  
+    color: rgba(0, 0, 0, 0.6);
+  }
